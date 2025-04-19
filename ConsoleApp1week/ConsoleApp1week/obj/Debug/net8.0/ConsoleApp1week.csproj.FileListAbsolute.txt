@@ -1,0 +1,14 @@
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\bin\Debug\net8.0\ConsoleApp1week.exe
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\bin\Debug\net8.0\ConsoleApp1week.deps.json
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\bin\Debug\net8.0\ConsoleApp1week.runtimeconfig.json
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\bin\Debug\net8.0\ConsoleApp1week.dll
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\bin\Debug\net8.0\ConsoleApp1week.pdb
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\obj\Debug\net8.0\ConsoleApp1week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\obj\Debug\net8.0\ConsoleApp1week.AssemblyInfoInputs.cache
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\obj\Debug\net8.0\ConsoleApp1week.AssemblyInfo.cs
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\obj\Debug\net8.0\ConsoleApp1week.csproj.CoreCompileInputs.cache
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\obj\Debug\net8.0\ConsoleApp1week.dll
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\obj\Debug\net8.0\refint\ConsoleApp1week.dll
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\obj\Debug\net8.0\ConsoleApp1week.pdb
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\obj\Debug\net8.0\ConsoleApp1week.genruntimeconfig.cache
+C:\Users\YH\Desktop\프로젝트 폴더\C#Console\ConsoleApp1week\ConsoleApp1week\obj\Debug\net8.0\ref\ConsoleApp1week.dll
