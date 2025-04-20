@@ -9,7 +9,6 @@ namespace ConsoleApp1week.NewFolder
     class Shop
     {
         private Player _player;
-        private Shop shop_text;
         private Inventory inventory;
 
         string alreadyPurchase = "이미 구매한 아이템입니다!";
@@ -34,7 +33,7 @@ namespace ConsoleApp1week.NewFolder
                 new Items(" ", " ", "ironSword", 15 , "철로 만든 검이다"," ", 700),
                 new Items(" ", " ", "silverSword", 20, "은으로 만든 검이다.", " ", 1500),
                 new Items(" ", " ", "goldSword", 30, "금으로 만든 검이다.", " ", 3000),
-                new Items(" ", " ", "diamondSword", 40, "다이아몬드로 만든 검이다.", " ", 5000),
+                new Items(" ", " ", "diamondSword", 40, "다이아몬드로 만든 검이다.", " ", 5000)
             };
         }
 

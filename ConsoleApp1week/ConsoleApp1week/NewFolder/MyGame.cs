@@ -8,10 +8,6 @@ namespace ConsoleApp1week.NewFolder
 {
     internal class MyGame : GameManager
     {
-        private Status status_info;
-        private Inventory inventory_info;
-        private Shop shop_info;
-
         public override void StartGame()
         {
             var ready = new ReadyScene();
