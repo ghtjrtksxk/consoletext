@@ -5,31 +5,31 @@ using System;
 
 internal class MainScene
 {
-    static void Main(string[] args)
-    {
-        var readyName = new GetName(); //겟네임이라는 지역 생성, 플레이어 하나
-        readyName.ReadName();
+    //static void Main(string[] args)
+    //{
+    //    var readyName = new GetName(); //겟네임이라는 지역 생성, 플레이어 하나
+    //    readyName.ReadName();
 
-        var str_Name = readyName.GetPlayer();
+    //    var str_Name = readyName.GetPlayer();
 
-        var readyJob = new GetJob(str_Name); //겟잡이라는 지역에도 플레이어 하나
-        readyJob.ReadJob();
+    //    var readyJob = new GetJob(str_Name); //겟잡이라는 지역에도 플레이어 하나
+    //    readyJob.ReadJob();
 
-        var str_Job = readyJob.GetPlayer();
+    //    var str_Job = readyJob.GetPlayer();
 
-        var mainAction = new MainAction(str_Name, str_Job);
-        mainAction.Show_mainScene();
+    //    var mainAction = new MainAction(str_Name, str_Job);
+    //    mainAction.Show_mainScene();
 
-        //while(true) //유니티 기준 Update()
-        //{
+    //    while (true) //유니티 기준 Update()
+    //    {
 
-        //    string input_name = Console.ReadLine();
+    //        string input_name = Console.ReadLine();
 
-        //    break;
-        //}
+    //        break;
+    //    }
 
-        Console.WriteLine("게임이 종료되었습니다.");
-    }
+    //    Console.WriteLine("게임이 종료되었습니다.");
+    //}
 }
 
 class GetName // 지역

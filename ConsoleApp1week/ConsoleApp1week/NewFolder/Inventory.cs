@@ -8,14 +8,18 @@ namespace ConsoleApp1week.NewFolder
 { 
     class Inventory
     {
-        //public string items;
-        private Inventory inventory_text;
+        private Player _player;
 
-        public List<Items> Items = new List<Items>();
+        public Items[] inventory_items;
 
-        public Inventory()
+        public Inventory(Player player_info)
         {
+            this._player = player_info;
 
+            inventory_items = new Items[]
+            {
+               new Items("초보자의 검", 3, "초보자의 검이다", 0)
+            };
         }
 
         public void Character_Inventory()

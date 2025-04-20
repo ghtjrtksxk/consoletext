@@ -34,17 +34,12 @@ namespace ConsoleApp1week.NewFolder
                 Console.WriteLine($"체력 : {_player.HP}");
 
                 Console.WriteLine("\n0. 나가기\n");
-                Console.Write("입력 : ");
-                Status_input = Console.ReadLine();
-                switch (Status_input)
+
+                int result = LobbyScene.CheckInput(0, 0);
+                switch (result)
                 {
-                    case "0":
+                    case 0:
                         Status_window_on = false;
-                        break;
-                    default:
-                        Console.Clear();
-                        Console.Write("잘못된 입력입니다.");
-                        Thread.Sleep(1000);
                         break;
                 }
             }
