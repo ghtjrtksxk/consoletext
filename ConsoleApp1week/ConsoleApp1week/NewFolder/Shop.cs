@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1week.NewFolder
 {
-    class Shop
+    public class Shop
     {
         private Player _player;
         private Inventory _inventory;
@@ -75,7 +75,7 @@ namespace ConsoleApp1week.NewFolder
 
                     for (int i = 0; i < sell_items.Length; i++)
                     {
-                        Console.WriteLine($"- {(i + 1)}. {sell_items[i].name} | {sell_items[i].itemStat} | {sell_items[i].description} | {(_inventory.inventory_items.Contains(sell_items[i]) ? "구매완료" : $"{sell_items[i].price} G")}");
+                        Console.WriteLine($"- {(i + 1)}. {sell_items[i].name} | {sell_items[i].itemStat} | {sell_items[i].description} | {(_inventory.inventory_items.Contains(sell_items[i].name) ? "구매완료" : $"{sell_items[i].price} G")}");
                     }
 
                     Console.WriteLine("\n- 0. 나가기\n");

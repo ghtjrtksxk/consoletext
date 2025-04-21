@@ -11,16 +11,24 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\Items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\LobbyScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\LobbyScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\Status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\ReadyScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\MyGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\MyGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\Items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewFolder\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\bogy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\GameManager.cs",
               "RelativeDocumentMoniker": "NewFolder\\GameManager.cs",
@@ -62,12 +62,11 @@
               "RelativeToolTip": "NewFolder\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T14:43:36.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T14:43:36.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Status.cs",
               "RelativeDocumentMoniker": "NewFolder\\Status.cs",
@@ -75,21 +74,19 @@
               "RelativeToolTip": "NewFolder\\Status.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAcwCUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T02:03:22.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T02:03:22.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Items.cs",
               "DocumentMoniker": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Items.cs",
               "RelativeDocumentMoniker": "NewFolder\\Items.cs",
               "ToolTip": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Items.cs",
               "RelativeToolTip": "NewFolder\\Items.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T02:01:37.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T02:01:37.25Z"
             },
             {
               "$type": "Document",
@@ -99,14 +96,26 @@
               "RelativeDocumentMoniker": "NewFolder\\Shop.cs",
               "ToolTip": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Shop.cs",
               "RelativeToolTip": "NewFolder\\Shop.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAAHAAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T00:53:33.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Inventory.cs",
+              "RelativeDocumentMoniker": "NewFolder\\Inventory.cs",
+              "ToolTip": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Inventory.cs",
+              "RelativeToolTip": "NewFolder\\Inventory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T02:03:33.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ReadyScene.cs",
               "DocumentMoniker": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\ReadyScene.cs",
               "RelativeDocumentMoniker": "NewFolder\\ReadyScene.cs",
@@ -114,12 +123,11 @@
               "RelativeToolTip": "NewFolder\\ReadyScene.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T18:37:30.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T18:37:30.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Player.cs",
               "RelativeDocumentMoniker": "NewFolder\\Player.cs",
@@ -127,12 +135,11 @@
               "RelativeToolTip": "NewFolder\\Player.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T18:11:19.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T18:11:19.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MyGame.cs",
               "DocumentMoniker": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\MyGame.cs",
               "RelativeDocumentMoniker": "NewFolder\\MyGame.cs",
@@ -140,8 +147,7 @@
               "RelativeToolTip": "NewFolder\\MyGame.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T18:00:39.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T18:00:39.317Z"
             },
             {
               "$type": "Document",
@@ -157,29 +163,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LobbyScene.cs",
               "DocumentMoniker": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\LobbyScene.cs",
               "RelativeDocumentMoniker": "NewFolder\\LobbyScene.cs",
               "ToolTip": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\LobbyScene.cs",
               "RelativeToolTip": "NewFolder\\LobbyScene.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAswEkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T05:52:30.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Inventory.cs",
-              "RelativeDocumentMoniker": "NewFolder\\Inventory.cs",
-              "ToolTip": "C:\\Users\\YH\\Documents\\GitHub\\consoletext\\ConsoleApp1week\\ConsoleApp1week\\NewFolder\\Inventory.cs",
-              "RelativeToolTip": "NewFolder\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T02:03:33.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T05:52:30.832Z"
             }
           ]
         }
