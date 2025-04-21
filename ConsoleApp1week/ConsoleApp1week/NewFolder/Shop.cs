@@ -20,8 +20,6 @@ namespace ConsoleApp1week.NewFolder
         bool posShop = true;
         bool posPurchase = false;
 
-
-        int itemNumber;
         public Shop(Player player_info)
         {
             this._player = player_info;
@@ -77,8 +75,6 @@ namespace ConsoleApp1week.NewFolder
 
                     for (int i = 0; i < sell_items.Length; i++)
                     {
-                        itemNumber = i + 1;
-
                         Console.WriteLine($"- {(i + 1)}. {sell_items[i].name} | {sell_items[i].itemStat} | {sell_items[i].description} | {(_inventory.inventory_items.Contains(sell_items[i]) ? "구매완료" : $"{sell_items[i].price} G")}");
                     }
 
