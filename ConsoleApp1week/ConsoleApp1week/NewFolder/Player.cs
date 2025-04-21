@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1week.NewFolder
 {
-    class Player
+    public class Player
     {
         public string name;
         public int level;

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1week.NewFolder
 { 
-    class Inventory
+    public class Inventory
     {
         private Player _player;
 
@@ -18,7 +18,7 @@ namespace ConsoleApp1week.NewFolder
 
             inventory_items = new Items[]
             {
-               new Items("초보자의 검", 3, "초보자의 검이다", 0)
+               new Items("초보자의 검", 3, "초보자의 검이다", 30)
             };
         }
 

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1week.NewFolder
 {
-    class Items
+    public class Items
     {
         public string name;
         public int itemStat;
